@@ -30,23 +30,23 @@ This project analyzes the environmental impact of different dishes based on gree
 
 ## Files and Directories
 
-- `main_script.py`: The main Python script for data processing and visualization.
-- `Datasets/`: Directory containing input datasets.
-- `Results/`: Directory containing the generated visualizations and analysis results.
 
-## Visualizations
+- A Comparative Study of Carbon Dioxide Emission of Most Popular Dishes in Top 10 Countries.ipynb:
+  Jupyter Notebook containing the code and analysis of carbon dioxide emissions for popular dishes.
 
-- **Heatmap:** Shows the correlation matrix of emissions for different dishes and countries.
+-A Comparative Study of Carbon Dioxide Emission of Most Popular Dishes in Top 10 Countries_Camera Ready Format_v1.0.docx (1).pdf:
+  A camera-ready document providing a detailed analysis of carbon dioxide emissions.
 
-![Heatmap](Results/heatmap.png)
+- Book.csv:
+  Dataset containing relevant information for the analysis.
 
-- **Stacked Bar Chart:** Illustrates the contribution of different ingredients to the total emissions for each country.
+- Contents.csv:
+  Dataset containing contents, countries, dishes, and recipe links.
 
-![Stacked Bar Chart](Results/stacked_bar_chart.png)
+- Final PPT.pptx:
+  A presentation summarizing the findings of the analysis.
 
-- **Pair Plot:** Visualizes pairwise relationships between countries and their emissions for different dishes.
 
-![Pair Plot](Results/pair_plot.png)
 
 ## Contributing
 
