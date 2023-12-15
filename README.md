@@ -1,5 +1,5 @@
 # Environmental Impact Analysis
-
+This repository contains paper and code submitted to 21st International Conference on Science, Engineering and Technology (ICSET) held by VIT.
 This project analyzes the environmental impact of different dishes based on greenhouse gas emissions. The dataset includes information about various ingredients and their corresponding emissions per kilogram.
 
 ## Getting Started
