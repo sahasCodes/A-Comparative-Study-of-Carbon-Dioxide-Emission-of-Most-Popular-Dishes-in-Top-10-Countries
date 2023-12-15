@@ -34,7 +34,7 @@ This project analyzes the environmental impact of different dishes based on gree
 - A Comparative Study of Carbon Dioxide Emission of Most Popular Dishes in Top 10 Countries.ipynb:
   Jupyter Notebook containing the code and analysis of carbon dioxide emissions for popular dishes.
 
--A Comparative Study of Carbon Dioxide Emission of Most Popular Dishes in Top 10 Countries_Camera Ready Format_v1.0.docx (1).pdf:
+- A Comparative Study of Carbon Dioxide Emission of Most Popular Dishes in Top 10 Countries_Camera Ready Format_v1.0.docx (1).pdf:
   A camera-ready document providing a detailed analysis of carbon dioxide emissions.
 
 - Book.csv:
@@ -48,20 +48,3 @@ This project analyzes the environmental impact of different dishes based on gree
 
 
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push to the forked repository.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- The dataset used in this project is sourced from [Your Dataset Source].
-
-Feel free to update and expand this README file based on your project's specific details and requirements.
