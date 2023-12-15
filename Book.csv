@@ -1,0 +1,22 @@
+Countries ,Dishes,Ingredients (in kgs),,,,,,,Sum
+China,Yangzhou fried rice,Rice ,Prawns,egg,Vegetables,oil,Ham(Pork),,
+,https://www.madewithlau.com/recipes/yangzhou-fried-rice,0.06167,0.0227,0.0224,0.0226,0.009,0.0283,,0.16667
+India,Vegetable curry with Chapathi,Wheat,Vegetable ,onion,Tomato,Potato,,,
+https://www.slurrp.com/recipes/mixed-veg-1611367030,https://www.bongeats.com/recipe/roti,0.08,0.214,0.075,0.075,0.075,,,0.519
+Indonesia,Nasi Goreng,Rice ,oil,chicken,egg,onion,,,
+,https://www.recipetineats.com/nasi-goreng-indonesian-fried-rice/,0.135,0.0085,0.0375,0.005,0.075,,,0.261
+Nigeria,Jollof rice,Rice ,Chicken,onion ,Garlic,,,,
+,https://www.slurrp.com/recipes/jollof-rice-1623823191,0.05625,0.0435,0.078599053,0.00075,,,,0.179099053
+Bangladesh,Fish curry with Rice,Rice ,Fish,Radish,Garlic,Onion,,,
+,https://www.slurrp.com/recipes/bangladesh-fish-curry-recipe-1622791817,0.4,0.075,0.075,0.00067,0.00017,,,0.55084
+Mexico,Tacos,Beef,Tomato Salsa,Wheat ,Cheese,,,,
+,https://www.bettycrocker.com/recipes/easy-beef-tacos/426c261d-b2eb-4e22-9cba-0066f3335591,0.045,0.0226796,0.04166667,0.0113398,,,,0.12068607
+Russia,Pelmeni,Wheat,Egg,Beef,Pork,Onion,,,
+,https://www.thekitchn.com/pelmeni-recipe-23058710,0.0375,0.0005,0.011339,0.011339,0.014174,,,0.074852
+Brazil,Feijoada with rice,Onion,Tomato,olive oil,rice,pork,beans,,
+,https://www.curiouscuisiniere.com/feijoada-brazilian-black-bean-stew/,0.031439621,0.0085,0.0143,0.167,0.0567,0.0453592,,0.323298821
+Pakistan,Pakistani nihari,Beef,oil ,onion ,wheat,,,,
+,https://samarascuisine.com/nihari-recipe/,0.1135,0.0283,0.0625,0.0071,,,,0.2114
+United States,"Burgers, Fries",Wheat ,Beef,Tomato,Onion ,Potatoes ,Cheese,,
+,https://www.foodrepublic.com/recipes/all-american-cheeseburger-recipe/,0.105,0.151195945,0.02918,0.02918,0.0850486,0.04,,0.439604545
+,,Rice ,fish,,,,,,
