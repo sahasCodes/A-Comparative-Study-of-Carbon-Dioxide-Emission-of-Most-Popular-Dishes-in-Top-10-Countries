@@ -14,8 +14,7 @@ This project analyzes the environmental impact of different dishes based on gree
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/environmental-impact-analysis.git
-    cd environmental-impact-analysis
+    git clone https://github.com/sahasCodes/A-Comparative-Study-of-Carbon-Dioxide-Emission-of-Most-Popular-Dishes-in-Top-10-Countries
     ```
 
 2. Install the required dependencies:
@@ -26,12 +25,7 @@ This project analyzes the environmental impact of different dishes based on gree
 
 ### Usage
 
-1. Run the main script:
-
-    ```bash
-    python main_script.py
-    ```
-
+1. Run the jyupiter notebook
 2. Explore the visualizations and analysis generated.
 
 ## Files and Directories
